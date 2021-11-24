@@ -52,7 +52,7 @@
                 "no_follow": false
             }
         ],
-        "has_anncmnt": false,
+        "has_anncmnt": true,
         "primary_nav_links": [
             {
                 "label": "lorem-ipsum",
